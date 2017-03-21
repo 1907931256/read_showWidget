@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>resource/bend.png</file>
+        <file>resource/calculateTrace.png</file>
+        <file>resource/create.png</file>
+        <file>resource/deploy.png</file>
+        <file>resource/f3.png</file>
+        <file>resource/folder-new.png</file>
+        <file>resource/h16.png</file>
+        <file>resource/menu.png</file>
+        <file>resource/new.png</file>
+        <file>resource/play.png</file>
+        <file>resource/print.png</file>
+        <file>resource/reclaimer.png</file>
+        <file>resource/referencePoint.png</file>
+        <file>resource/save.png</file>
+        <file>resource/toggle.png</file>
+        <file>resource/tracePlanning.png</file>
+        <file>resource/quit.jpg</file>
+        <file>resource/explain.jpg</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>resource/bodystruct.bmp</file>
+        <file>resource/gauge_four.bmp</file>
+        <file>resource/gauge_one.bmp</file>
+        <file>resource/gauge_three.bmp</file>
+        <file>resource/gauge_two.bmp</file>
+        <file>resource/punch.jpg</file>
+    </qresource>
+</RCC>
